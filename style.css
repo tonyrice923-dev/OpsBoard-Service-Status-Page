@@ -1,0 +1,21 @@
+/*Div Classes*/
+.service {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+.status {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+
+}
+.operational {
+    background-color: green;
+    
+}
+.degraded {
+    background-color: orange;
+}
+.outage {
+    background-color: red;
+}
