@@ -2,15 +2,11 @@
 .service {
         font-family: 'Times New Roman', Times, serif;
     }
-#header {
-    font-size: large;
-}
 .status {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
     font-weight: bold;
-
 }
 .operational {
     background-color: green;
@@ -21,6 +17,16 @@
 }
 .outage {
     background-color: red;
+}
+.critical {
+    background-color: red;
+}
+.intrusion {
+    font-size: larger;
+    background-color: red;
+    font-style: italic;
+    color: black;
+       
 }
 
 /*IDs*/
