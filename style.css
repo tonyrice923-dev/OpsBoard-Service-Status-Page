@@ -36,3 +36,8 @@
     background-color: black;
     color: white;
 }
+#links {
+    font: bold;
+    font-size: medium;
+    text-align: center;
+}
