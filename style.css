@@ -1,8 +1,10 @@
-/*Div Classes*/
+/*Classes*/
 .service {
         font-family: 'Times New Roman', Times, serif;
     }
-
+#header {
+    font-size: large;
+}
 .status {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
@@ -19,4 +21,12 @@
 }
 .outage {
     background-color: red;
+}
+
+/*IDs*/
+#header {
+    font: bold;
+    font-size: larger;
+    background-color: black;
+    color: white;
 }
