@@ -28,14 +28,15 @@
     color: black;
        
 }
-
-/*IDs*/
-#header {
+.header {
     font: bold;
     font-size: larger;
     background-color: black;
     color: white;
 }
+/*IDs*/
+
+
 #links {
     font: bold;
     font-size: medium;
