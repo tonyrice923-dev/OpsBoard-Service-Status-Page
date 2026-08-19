@@ -29,7 +29,7 @@
        
 }
 .header {
-    font: bold;
+    font-weight: bold;
     font-size: larger;
     background-color: black;
     color: white;
@@ -38,7 +38,7 @@
 
 
 #links {
-    font: bold;
+    font-weight: bold;
     font-size: medium;
     text-align: center;
 }
